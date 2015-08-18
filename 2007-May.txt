@@ -1,0 +1,34 @@
+From grickert at coldstorage.com  Tue May  8 23:12:26 2007
+From: grickert at coldstorage.com (Gerrat Rickert)
+Date: Tue, 8 May 2007 17:12:26 -0400
+Subject: [Allegra-dev] async_loop
+Message-ID: <BB13E4C4D649234F84A01F6DF64BB87F01D65283@ccs-ex01.coldstorage.com>
+
+I?ve just downloaded the non-development version, 0.63 of Allegra.
+
+ 
+
+I started going through the documentation, and the first test I tried (from the async_loop.py example):
+
+ 
+
+from allegra import async_loop
+
+ 
+
+python responds with a whole bunch of gibberish:
+
+??[0;32m?In [??[1;32m?2??[0;32m?]: ??[0m?
+
+ 
+
+I?m not sure what to make of this.  I?m using winxp, python 2.4.3, and ipython 0.7.3
+
+Any ideas?
+
+ 
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://lists.berlios.de/pipermail/allegra-dev/attachments/20070508/c5f3f77d/attachment.html>
+
